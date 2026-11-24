@@ -1,0 +1,8 @@
+{
+  "name": "Verdant",
+  "description": "Verdant — Fresh groceries, artisanal staples, and everyday essentials delivered straight to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
